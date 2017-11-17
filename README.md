@@ -1,7 +1,7 @@
 
 <br>
 
-**[See notebook in Jupyter nbviewer](https://nbviewer.jupyter.org/github/reyvaz/SMS-Classification/blob/master/sms_spam.ipynb)**
+**[See notebook in Jupyter nbviewer](https://nbviewer.jupyter.org/github/reyvaz/Sentiment-Analysis-Mobile/blob/master/sentiment.ipynb)**
 
 # Sentiment Analysis on Mobile Phone User Reviews
 ***Author: Reynaldo Vazquez***  
@@ -29,6 +29,8 @@ LogisticRegression (ngrams)          C = 10  0.979352  0.988174   0.984161  0.97
 * [sentiment.ipynb](sentiment.ipynb) Jupyter Notebook containing classification algorithms in Python 
 * [amazon-reviews-unlocked-mobile-phones.zip](amazon-reviews-unlocked-mobile-phones.zip) `zip` file containing the `csv` dataset
 * [README.md](README.md) this file
+
+[GitHub Pages](https://reyvaz.github.io/Sentiment-Analysis-Mobile/)
 
 <br>
 <p align="center">
