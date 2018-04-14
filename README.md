@@ -1,12 +1,9 @@
 <br>
-<br>
 
 # Sentiment Classification
-***Reynaldo Vazquez***  
-***April, 2018***
 
 <br>
-**[CLICK HERE](https://nbviewer.jupyter.org/github/reyvaz/Sentiment-Analysis-Mobile/blob/master/sentiment.ipynb)** to see the notebook in Jupyter nbviewer
+[**CLICK HERE**](https://nbviewer.jupyter.org/github/reyvaz/Sentiment-Analysis-Mobile/blob/master/sentiment.ipynb) to see the notebook in Jupyter nbviewer
 
 ## Sentiment Classification on Mobile Phone User Reviews
 
@@ -27,12 +24,12 @@ ROC AUC  = 0.97
 ```
 
 #### Contents 
-* [sentiment.ipynb](sentiment.ipynb) Jupyter Notebook containing the best performing classification model tested. 
-* [sentiment_old.ipynb](sentiment_old.ipynb) An older version of the Jupyter Notebook (contains other tested models).
-* [sentiment_utils.py](sentiment_utils.py) Python scrypt containing some auxiliary functions.
-* [cm_heat_plots.py](cm_heat_plots.py)  Python scrypt containing functions to create confusion matrix plots.
-* [media](media) Output and auxiliary images.
-* [README.md](README.md) this file.
+* [sentiment.ipynb](sentiment.ipynb): Jupyter Notebook containing the best performing classification model tested. 
+* [sentiment_old.ipynb](sentiment_old.ipynb): An older version of the Jupyter Notebook (contains other tested models).
+* [sentiment_utils.py](sentiment_utils.py): Python scrypt containing some auxiliary functions.
+* [cm_heat_plots.py](cm_heat_plots.py):  Python scrypt containing functions to create confusion matrix plots.
+* [media](media): Output and auxiliary images.
+* [README.md](README.md): this file.
 
 <br>
 <p align="center">
@@ -41,6 +38,6 @@ rel="see html report">
 <img src="media/words.png" alt="Drawing" width = "75%"></a>
 </p>
 <br>
-**[GitHub Pages](https://reyvaz.github.io/Sentiment-Analysis-Mobile/)**
+[**GitHub Pages**](https://reyvaz.github.io/Sentiment-Analysis-Mobile/)
 <hr>
 <br>
