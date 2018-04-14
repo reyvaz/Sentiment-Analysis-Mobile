@@ -2,7 +2,6 @@
 
 # Sentiment Classification
 
-<br>
 [**CLICK HERE**](https://nbviewer.jupyter.org/github/reyvaz/Sentiment-Analysis-Mobile/blob/master/sentiment.ipynb) to see the notebook in Jupyter nbviewer
 
 ## Sentiment Classification on Mobile Phone User Reviews
@@ -38,6 +37,8 @@ rel="see html report">
 <img src="media/words.png" alt="Drawing" width = "75%"></a>
 </p>
 <br>
+
 [**GitHub Pages**](https://reyvaz.github.io/Sentiment-Analysis-Mobile/)
+
 <hr>
 <br>
