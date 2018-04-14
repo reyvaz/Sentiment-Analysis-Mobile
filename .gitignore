@@ -1,2 +1,8 @@
 py_code/**
 README.html
+.ipynb_checkpoints/**
+__pycache__/**
+amazon-reviews-unlocked-mobile-phones.zip
+ignore/**
+sentiment_LTSM/**
+my_nlp_paths.py
